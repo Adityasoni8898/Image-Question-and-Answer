@@ -29,7 +29,6 @@ This repository contains a Visual Question Answering (VQA) model, based on the V
 
     ```bash
     git clone https://github.com/Adityasoni8898/Image-Question-and-Answer.git
-    cd Image-Question-and-Answer
     ```
 
 2. **Build the Docker image**:
